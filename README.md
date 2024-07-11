@@ -1,6 +1,6 @@
-##EN
-#Thymeleaf Time Zone Servlet Project
-###Overview
+#EN
+##Thymeleaf Time Zone Servlet Project
+verview
 This Java servlet project leverages Thymeleaf for rendering HTML and managing time zones dynamically. It is designed to demonstrate handling HTTP requests, managing cookies, and dynamically generating responses based on user input or stored preferences. The primary functionality revolves around displaying the current time in a specified or remembered time zone.
 
 ##Features
@@ -15,9 +15,9 @@ Time Calculation: If a time zone is specified or retrieved from cookies, the ser
 Response Rendering: Uses Thymeleaf templates to generate the HTML response, embedding the calculated time.
 Cookie Handling: If a new time zone is specified, the servlet updates the 'lastTimezone' cookie with this new value.
 
-##UA
-#Проект Thymeleaf Time Zone
-###Огляд
+#UA
+##Проект Thymeleaf Time Zone
+Огляд
 Цей проект - Java сервлет, який використовує Thymeleaf для рендерингу HTML і управління часовими поясами. Він призначений для демонстрації роботи з HTTP-запитами, управління cookies та динамічної генерації відповідей на основі вхідних даних користувача або збережених налаштувань. Основна функціональність полягає у відображенні поточного часу у вказаному або запам'ятованому часовому поясі.
 
 ##Особливості
